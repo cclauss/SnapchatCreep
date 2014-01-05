@@ -1,6 +1,6 @@
 ###Snapchat Creeper###
 
-A simple script using Google Voice to mass text all 99 possible numbers from the Snapchat leak.
+A simple script using Google Voice to mass text all 100 possible numbers from the Snapchat leak.
 [Lookup](http://lookup.gibsonsec.org/)
 ####Usage:####
 
